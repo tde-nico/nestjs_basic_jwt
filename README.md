@@ -1,5 +1,21 @@
 # nestjs_basic_jwt
 
+<!--
+
+#field
+Web
+
+#groups
+Backend
+
+#languages
+TypeScript
+
+#frames and libs
+NestJS
+
+-->
+
 A basic implementation of sessions using jsw with nestjs
 
 <p align="center">
